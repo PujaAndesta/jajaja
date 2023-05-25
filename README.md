@@ -24,3 +24,7 @@ Asep Nurul Ajiid Mustofa, S.T.,M.T.T
 3.Berdasarkan pilihan pengguna, program akan menghitung nilai Xl (reaktansi induktor) dan Xc (reaktansi kapasitor) menggunakan rumus yang sesuai. Selanjutnya, program akan menghitung nilai R^2 (pangkat dua dari resistor), selisih antara Xl dan Xc, serta selisih pangkat dua. Kemudian, program akan menghitung impedansi (Z) menggunakan rumus sqrt(R^2 + selisih pangkat dua) dan menampilkan nilai Xl, Xc, dan impedansi.
 4.Selanjutnya, program akan melakukan percabangan berdasarkan perbandingan Xl dengan Xc. Jika Xl sama dengan Xc, program akan menghitung nilai frekuensi resonansi (Fs) menggunakan rumus 1 / (2 * pi * sqrt(L * C)) dan menampilkannya. Jika Xl tidak sama dengan Xc, program akan menampilkan pesan bahwa tidak terdapat frekuensi resonansi.
 5.Setelah selesai menghitung untuk satu set data, pengguna diberikan opsi untuk mengulangi perhitungan dengan mengetikkan "ya" atau keluar dengan mengetikkan "tidak". Jika pengguna memilih untuk mengulangi, program akan kembali ke awal dan meminta masukan data baru.
+# Media
+https://replit.com/@PUJAANDESTA1/Kelompok-12#main.cpp
+https://github.com/PujaAndesta/jajaja/edit/main/README.md
+https://youtu.be/AeQ5yn-3LYc
